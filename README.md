@@ -146,7 +146,6 @@ learning from this project was thinking like a **real user**, not just a tester 
 **Neha Shrivastav**
 📍 Chandigarh | 🎓 MCA – Chandigarh University
 📧 shrivastav13neha@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/neha-s013) | 💼 [QA Portfolio](https://github.com/Skyclooud/Neha-QA-Portfolio.git)
 
 ---
 
