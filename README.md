@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates end-to-end manual QA testing of the **SauceDemo** web application
+This project demonstrates end-to-end manual QA testing of the  web application
 https://with-bugs.practicesoftwaretesting.com , an e-commerce platform used to simulate real-world testing
 scenarios similar to EdTech and retail platforms.
 
